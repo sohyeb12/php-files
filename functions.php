@@ -1,4 +1,10 @@
 <?php
+
+function print_1($string)
+{
+    echo $string;
+}
+
 function foo()
 {
     function bar()
